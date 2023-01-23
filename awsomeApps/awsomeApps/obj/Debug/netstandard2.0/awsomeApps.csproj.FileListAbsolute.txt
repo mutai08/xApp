@@ -1,0 +1,15 @@
+D:\Projects\Xamarin Forms\awsomeApps\awsomeApps\awsomeApps\bin\Debug\netstandard2.0\awsomeApps.deps.json
+D:\Projects\Xamarin Forms\awsomeApps\awsomeApps\awsomeApps\bin\Debug\netstandard2.0\awsomeApps.dll
+D:\Projects\Xamarin Forms\awsomeApps\awsomeApps\awsomeApps\bin\Debug\netstandard2.0\awsomeApps.pdb
+D:\Projects\Xamarin Forms\awsomeApps\awsomeApps\awsomeApps\obj\Debug\netstandard2.0\awsomeApps.csproj.AssemblyReference.cache
+D:\Projects\Xamarin Forms\awsomeApps\awsomeApps\awsomeApps\obj\Debug\netstandard2.0\awsomeApps.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Xamarin Forms\awsomeApps\awsomeApps\awsomeApps\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Projects\Xamarin Forms\awsomeApps\awsomeApps\awsomeApps\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Projects\Xamarin Forms\awsomeApps\awsomeApps\awsomeApps\obj\Debug\netstandard2.0\awsomeApps.AssemblyInfoInputs.cache
+D:\Projects\Xamarin Forms\awsomeApps\awsomeApps\awsomeApps\obj\Debug\netstandard2.0\awsomeApps.AssemblyInfo.cs
+D:\Projects\Xamarin Forms\awsomeApps\awsomeApps\awsomeApps\obj\Debug\netstandard2.0\awsomeApps.csproj.CoreCompileInputs.cache
+D:\Projects\Xamarin Forms\awsomeApps\awsomeApps\awsomeApps\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Projects\Xamarin Forms\awsomeApps\awsomeApps\awsomeApps\obj\Debug\netstandard2.0\awsomeApps.dll
+D:\Projects\Xamarin Forms\awsomeApps\awsomeApps\awsomeApps\obj\Debug\netstandard2.0\refint\awsomeApps.dll
+D:\Projects\Xamarin Forms\awsomeApps\awsomeApps\awsomeApps\obj\Debug\netstandard2.0\awsomeApps.pdb
+D:\Projects\Xamarin Forms\awsomeApps\awsomeApps\awsomeApps\obj\Debug\netstandard2.0\ref\awsomeApps.dll
